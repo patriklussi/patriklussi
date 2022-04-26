@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋, My name is Patrik 
+
+- I am currently studying to become a frontend developer   
+- I currently live in Gothenburg Sweden
 
 <!--
 **patriklussi/patriklussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
