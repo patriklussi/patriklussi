@@ -3,6 +3,12 @@
 - I am currently studying to become a frontend developer   
 - I currently live in Gothenburg Sweden
 
+
+
+
+[https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white]
+
+
 <!--
 **patriklussi/patriklussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
