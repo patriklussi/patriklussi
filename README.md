@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrik</h1>
 <h3 align="center">Frontend developer from Gothenburg Sweden</h3>
 
-- 🌱 I’m currently learning **Svelte,React**
+- 🌱 I’m currently learning **Svelte**
 
 - 💬 Ask me about **anything!**
 
