@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrik</h1>
-<h3 align="center">Frontend developer from Gothenburg Sweden</h3>
+<h3 align="center">I'm a professional learner and frontend developer from Gothenburg Sweden</h3>
 
 - 🌱 I’m currently learning **Svelte**
 
